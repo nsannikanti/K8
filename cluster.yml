@@ -7,7 +7,6 @@ kind: ClusterConfig
 metadata:
   name: my-cluster
   region: us-east-1
-  zones: us-east-1c, us-east-1f
 
 nodeGroups:
   - name: nodegroup-1
