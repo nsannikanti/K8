@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: apache
-        image: ubuntu:apache2
+        image: nsannika/ubuntu:01
         ports:
         - containerPort: 80
